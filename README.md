@@ -1,6 +1,6 @@
 # an-array-of-basque-words
 
-[🇬🇧 English](./README.md) · [🇪🇸 Euskera](./README.eu.md)
+[English](./README.md) · [Euskera](./README.eu.md)
 
 List of ~4,655,000 Basque (Euskera) words.
 
