@@ -2,6 +2,8 @@
 
 [English](./README.md) · [Euskera](./README.eu.md)
 
+[![NPM version](https://img.shields.io/npm/v/an-array-of-basque-words.svg)](https://www.npmjs.com/package/an-array-of-basque-words)
+
 List of ~4,655,000 Basque (Euskera) words.
 
 Derived from the [Xuxen Basque Hunspell dictionary](http://xuxen.eus/)
