@@ -8,7 +8,7 @@
 
 [Xuxen euskara-hiztegi](http://xuxen.eus/) Hunspell-etik (`eu_ES`) eratorria, Euskarako karaktere-multzoa erabiliz hitz alfabetiko garbiak bakarrik sartzeko prozesatu eta iragazita (`[a-zñ]`).
 
-[`an-array-of-english-words`](https://github.com/words/an-array-of-english-words) proiektuaren arkitekturan oinarrituta, [Titus Wormer](https://github.com/wooorm) garatzaileak egina.
+[`an-array-of-english-words`](https://github.com/words/an-array-of-english-words) proiektuaren arkitekturan oinarrituta, [Zeke Sikelianos](https://github.com/zeke) garatzaileak egina.
 
 ## Instalazioa
 
@@ -62,7 +62,7 @@ node build.js    # garbitu, iragazte eta index.json sortu
 ## Kredituak
 
 - **Datu linguistikoak**: [Xuxen — Euskararen hiztegi arauemailea](http://xuxen.eus/)
-- **Arkitektura-eredua**: [Titus Wormer (@wooorm)](https://github.com/wooorm) — [`an-array-of-english-words`](https://github.com/words/an-array-of-english-words)
+- **Arkitektura-eredua**: [Zeke Sikelianos (@zeke)](https://github.com/zeke) — [`an-array-of-english-words`](https://github.com/words/an-array-of-english-words)
 
 ## Lizentzia
 
